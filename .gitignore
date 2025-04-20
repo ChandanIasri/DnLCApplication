@@ -1,0 +1,15 @@
+# PyInstaller folders
+dist/
+build/
+*.spec
+
+# macOS system files
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
